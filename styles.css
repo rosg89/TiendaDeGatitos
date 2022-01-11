@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Licorice&family=Parisienne&family=Waterfall&display=swap');
+*, *::after, *::before {
+  box-sizing: border-box;
+  color:#A68DAD;
+}
+
+.titulo {
+  text-align: center;
+  font-family: 'Parisienne', cursive;
+  font-size: 50px;
+  font-weight: bold;
+  background-color: #d8c9dd;
+
+}
+
+
+body {
+  background-color: #F0ECE3;
+}
+
+.btn {
+  font-family: 'Waterfall', cursive;
+  font-size: 40px;
+  font-weight: lighter;
+  border: 1px solid #A68DAD;
+  background-color: #F0ECE3;
+  color: #A68DAD;
+}
+
+  .btn:hover {
+    border: 1px solid #A68DAD;
+    background-color: #d8c9dd;
+    color: #A68DAD;
+  }
+
+  .miau {
+    width: 50%;
+  }
+
+.video {
+  text-align: center;
+}
+
+
+
+
+
